@@ -1,5 +1,7 @@
 # Ex.No: 01A PLOT A TIME SERIES DATA
-###  Date: 26.06.2025
+###  Date: 1/12/2025
+### Register No: 212223230025
+### Name: ASHWINA K N
 
 # AIM:
 To Develop a python program to Plot a time series data (population/ market price of a commodity
