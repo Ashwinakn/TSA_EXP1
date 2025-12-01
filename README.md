@@ -1,5 +1,5 @@
 # Ex.No: 01A PLOT A TIME SERIES DATA
-###  Date: 1/12/2025
+###  Date: 19/08/2025
 ### Register No: 212223230025
 ### Name: ASHWINA K N
 
